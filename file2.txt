@@ -3,4 +3,8 @@ iii from Git CLI VS CODE Integrated
 
 Hi from local 
 
+<<<<<<< HEAD
 ok
+=======
+Received from Remote
+>>>>>>> 3eeb2a877916f416a094591438812fffa5fbf557
